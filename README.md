@@ -5,6 +5,8 @@ INFORME DE TAREA: CAPÍTULOS 1 Y 2
 
 NOMBRE: Karen Nicole Tandazo Tandazo
 
+NRC 10067
+
 1. OBJETIVOS:
 
 OBJETIVOS GENERALES: 
@@ -28,6 +30,7 @@ Conocer la manera correcta de ubicar los aparatos de medición tanto para voltaj
 
 
 2. MARCO TEÓRICO
+
 ![1](https://user-images.githubusercontent.com/117767335/201267259-20693eca-6289-4eca-9a5c-08cd6a96b213.png)
 
 ![2](https://user-images.githubusercontent.com/117767335/201267290-f045fe71-2b99-48e0-8aa4-f61f5ac8ff69.png)
