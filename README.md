@@ -1,9 +1,11 @@
 # Tarea1_KarenTandazo
 UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
+
 INFORME DE TAREA: CAPÍTULOS 1 Y 2
+
 NOMBRE: Karen Nicole Tandazo Tandazo
 
-1.OBJETIVOS:
+1. OBJETIVOS:
 
 Objetivos Generales: 
 
@@ -25,4 +27,26 @@ Reconocer los principales elementos que intervienen dentro de un circuito eléct
 Conocer la manera correcta de ubicar los aparatos de medición tanto para voltaje, corriente y resistencias. 
 
 
-2.MARCO TEÓRICO
+2. MARCO TEÓRICO
+
+
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+4. VIDEO
+
+https://youtu.be/3J2GDxkhlCY
+
+5. CONCLUSIONES
+Se logró dominar la utilización de los prefijos de las distintas unidades de medidas eléctricas y a su vez se pudo también aplicar de una manera adecuada la notación científica  
+
+Con la realización del presente informe se pudo conocer mas detalladamente los componentes de las fuentes de voltaje y corriente y sus diferencias.
+
+Se pudo perfeccionar la identificación de los valores de las resistencias comerciales existentes, mediante sus códigos de colores. 
+
+Se logró conocer de una manera más específica las funciones que cumplen cada elemento presente dentro de un circuito eléctrico. 
+
+Finalmente se pudo aprender la manera correcta de colocar los elementos de medición tanto de voltaje, corriente y resistencia, para poder obtener los valores deseados.    
+
+6. BIBLIOGRAFÍA
+Thomas L. Floyd (2007). Principios de circuitos electricos. octava edicion
