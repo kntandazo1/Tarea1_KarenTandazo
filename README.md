@@ -15,7 +15,6 @@ Conocer las distintas unidades de medición del sistema Internacional de unidade
 
 Determinar los equipos que permiten realizar la medición de los diversos valores presentes en un circuito eléctrico. 
 
-
 OBJETIVOS ESPECÍFICOS:
 
 Dominar los prefijos y notación científica para la correcta resolución de los diversos ejercicios propuestos.   
